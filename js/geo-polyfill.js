@@ -1,0 +1,1 @@
+console.info('Se carga si NO existe soporte para Geolocation');

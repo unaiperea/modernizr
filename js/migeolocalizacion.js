@@ -1,0 +1,1 @@
+console.info('Se carga siempre gracias a both');
